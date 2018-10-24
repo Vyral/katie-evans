@@ -1230,8 +1230,8 @@ html[xmlns] .flexslider .slides {
 
 .ctalink {
   justify-content: center;
-  background: #b40101;
-  border: 1px solid #b40101;
+  background: #61d4dd;
+  border: 1px solid #61d4dd;
   border-radius: 0px;
   padding: 10px 20px;
   text-decoration: none;
@@ -1242,10 +1242,10 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
   .ctalink:hover {
     background: #fff;
-    color: #b40101;
-    border: 1px solid #b40101; }
+    color: #61d4dd;
+    border: 1px solid #61d4dd; }
   .ctalink:active {
-    box-shadow: 0 0 0 #b40101;
+    box-shadow: 0 0 0 #61d4dd;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -1471,7 +1471,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 60rem;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -2083,15 +2083,15 @@ table tr, table td {
       padding: 0.3rem;
       display: inline-block; }
   .socials svg {
-    fill: #b40101;
+    fill: #61d4dd;
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #fe1d1d;
+      fill: #b40101;
       background: transparent;
-      color: #fe1d1d;
+      color: #b40101;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
@@ -2632,7 +2632,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 60rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px black);
