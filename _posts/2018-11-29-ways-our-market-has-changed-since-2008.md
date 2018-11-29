@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Ways Our Market Has Changed Since 2008
-date: 2018-11-29 19:54:55
+date: 2018-11-29 19:54:00
 tags:
   - Real Estate
 excerpt: Is our market really that similar to what we saw in 2008? Let’s find out.
 enclosure:
-pullquote:
+pullquote: Is our market really that similar to what we saw in 2008? Let’s find out.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
