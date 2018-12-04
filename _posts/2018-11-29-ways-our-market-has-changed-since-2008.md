@@ -22,11 +22,11 @@ A lot can change in a decade. That said, there’s been a lot of talk about how 
 
 00:23 - An introduction to today’s topic.
 
-00:48 - The first difference between 2008 and 2018: The level of demand.&nbsp;
+00:48 - The first difference between 2008 and 2018: the level of demand.&nbsp;
 
 {% include pullquote.html %}1:41 - The second difference between 2008 and 2018: The level of inventory.&nbsp;
 
-3:02 - How loan products and lending standards from 2008 compare to those this year.&nbsp;
+3:02 - How loan products and lending standards from 2008 compared to those this year.&nbsp;
 
 4:53 - The truth about recent appreciation.&nbsp;
 
