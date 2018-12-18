@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas Decoration Inspiration
-date: 2018-12-18 18:19:27
+date: 2018-12-18 18:19:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/tcl4-1.PNG
 youtube_code:
 ---
 
@@ -23,11 +23,11 @@ First up is @turtlecreeklane (find her on Instagram). This year she has gone wit
 
 ![](/uploads/tcl3-2.PNG)
 
-Did you spot some of her grinches? I couldn't be any more obsessed with her house!&nbsp;
+Did you spot some of her grinches? I couldn't be any more obsessed with her house! 
 
-Jennifer from @turtlecreeklane does the most adorable decorations for EVERY holiday, season, event, and literally everything in between. Make sure you go check out her page for some serious holiday inspiration.&nbsp;
+Jennifer from @turtlecreeklane does the most adorable decorations for EVERY holiday, season, event, and literally everything in between. Make sure you go check out her page for some serious holiday inspiration. 
 
-&nbsp;
+ 
 
 Next up is Chelsea from @blessed\_ranch on Instagram and this holiday season she has created a beautiful winter wonderland!! Her adorable country style ranch home is very trendy right now, and Chelsea has hit that trend on the nose! Here are some of my favorite posts from her beautiful page! Did I mention she has been featured in Home and Gardens magazine? So cool!
 
@@ -37,11 +37,11 @@ Next up is Chelsea from @blessed\_ranch on Instagram and this holiday season she
 
 ![](/uploads/br3.PNG)
 
-Did I mention that Chelsea has THE cutest family ever?! Go check out @blessed\_ranch on Instagram for some more holiday inspiration and adorable farm house vibes!&nbsp;
+Did I mention that Chelsea has THE cutest family ever?! Go check out @blessed\_ranch on Instagram for some more holiday inspiration and adorable farm house vibes! 
 
-&nbsp;
+ 
 
-Last, but certainly not least, is Leslie from @thelesliestyle, also on Instagram! This Christmas season Leslie has gone with very classy, simple (but complex at the same time) Christmas decorations and I am loving it!! It's definitely perfect for the family who doesn't have a ton of time to decorate or likes the more simple and clean look!&nbsp;
+Last, but certainly not least, is Leslie from @thelesliestyle, also on Instagram! This Christmas season Leslie has gone with very classy, simple (but complex at the same time) Christmas decorations and I am loving it!! It's definitely perfect for the family who doesn't have a ton of time to decorate or likes the more simple and clean look! 
 
 ![](/uploads/tls1.PNG)
 
