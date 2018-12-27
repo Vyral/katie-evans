@@ -25,23 +25,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.living48re.com/home_value
+  first_CTA_URL: http://www.living48re.com/home_value
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.living48re.com/search#?q_limit=36&q_prioritize=agents.0.id=ke085|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
+  second_CTA_URL: http://www.living48re.com/search#?q_limit=36&q_prioritize=agents.0.id=ke085|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your East Valley Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.living48re.com/home_value
+    CTA_url: http://www.living48re.com/home_value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a East Valley Home?"
     CTA_text2: "Search the entire MLS for your East Valley home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.living48re.com/search#?q_limit=36&q_prioritize=agents.0.id=ke085|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
+    CTA_url2: http://www.living48re.com/search#?q_limit=36&q_prioritize=agents.0.id=ke085|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
 
 lender:
   show_section: false
