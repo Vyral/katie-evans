@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/EA_RqL-pk0E'
 
 {% include youtube.html %}
 
-When you search the market for remodelled homes, what can you do to distinguish a spectacular flip from a spectacular flop?&nbsp;
+When you search the market for remodeled homes, what can you do to distinguish a spectacular flip from a spectacular flop?&nbsp;
 
 The first thing you need to do is order a home inspection from an experienced expert, but, after that, there are five main factors to consider:&nbsp;
 
