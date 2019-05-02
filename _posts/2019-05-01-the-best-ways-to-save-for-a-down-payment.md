@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Ways to Save for a Down Payment
-date: 2019-05-02 21:34:10
+date: 2019-05-01 21:34:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -46,4 +46,4 @@ Here are some great tips for how to save up some cash so you can make the purcha
 
 If your goal is to break out of the rental system and become a homeowner, consider making these or similar slight changes to your lifestyle so that you can save up for the costs. You’ll thank yourself when you close on your home.
 
-If you’d like a few more suggestions or if you have any questions, feel free to reach out to me. Let me know how I can be of assistance to you.<br>&nbsp;
+If you’d like a few more suggestions or if you have any questions, feel free to reach out to me. Let me know how I can be of assistance to you.<br>
