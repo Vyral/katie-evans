@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/g5eW_Qfl94k'
 
 {% include youtube.html %}
 
-I just received an article from my wonderful brother-in-law, who is one of my financial gurus. It was from the Wall Street Journal and the title of it was, “A Decade After the Housing Bust, the Exurbs Are Back.” I thought this was a really interesting article and I wanted to talk to you a little bit about it today.
+I just received an article from my wonderful brother-in-law, who is one of my financial gurus. It was from The Wall Street Journal and the title of it was, “A Decade After the Housing Bust, the Exurbs Are Back.” I thought this was a really interesting article and I wanted to talk to you a little bit about it today.
 
 **First, homebuyers are often looking further away for affordable housing than they used to, even if that means a long commute.** As affordability becomes more of an issue in our market, people are having to look further out.&nbsp;
 
