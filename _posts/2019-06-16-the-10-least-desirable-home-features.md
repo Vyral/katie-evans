@@ -43,4 +43,4 @@ Springtime is here, which means the hottest selling season of the year is finall
 
 **10\. Community trails.** These used to be must-haves in a community, but now people aren’t as excited about them—especially since they usually have to pay extra for them. If your community is built around these parks and trails, understand that it won’t garner the same attention it used to.
 
-If you have any of these features, you may want to spend a little money to get rid of them. Otherwise, be aware that your home’s salability and price may be affected. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
+If you have any of these features, you may want to spend a little money to get rid of them. Otherwise, be aware that your home’s saleability and price may be affected. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
