@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Tommy Two Shoes Literacy Project All About?
+title: What Is the Tommy Two Shoes Literacy Project All About?
 date: 2019-07-02 00:00:00
 tags:
   - Real Estate
@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/PW2Jc8LLWF8'
 
 {% include youtube.html %}
 
-Recently, I was lucky enough to speak with executive director Courtney Horton about her incredible organization: the Tommy Two Shoes Literacy Project for Children. Our team has recently chosen this organization as our charity of choice. To give you a better idea of why we’re choosing to contribute to them, we decided to bring the full recording of my interview with Courtney here for you today.&nbsp;
+Recently, I was lucky enough to speak with Executive Director Courtney Horton about her incredible organization: the Tommy Two Shoes Literacy Project for Children. Our team has recently chosen this organization as our charity of choice. To give you a better idea of why we’re choosing to contribute to them, we decided to bring the full recording of my interview with Courtney here for you today.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in our interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
