@@ -26,7 +26,7 @@ You’ve probably seen a few listings in your neighborhood with a “coming soon
 
 Basically, this means the house is coming to the market, but it’s not there yet, and the seller isn’t showing the house to the general public. It may or may not be on the MLS, but I personally use “coming soon” listings as part of my pre-marketing strategy, which means it’s not on the MLS.&nbsp;
 
-When I say these homes aren’t available for viewing, that's usually a hard NO. There are lots of reasons why the seller wouldn’t want anyone to come into their house just yet, but sometimes they aren’t so adamant about not letting buyers in. Like I said, when I use these homes as part of my pre-marketing strategy, I still list them on Zillow, Trulia, etc. just to test the market.
+When I say these homes aren’t available for viewing, that's usually a hard NO. There are lots of reasons why the seller wouldn’t want anyone to come into their house just yet, but sometimes they aren’t so adamant about not letting buyers in. Like I said, when I use these homes as part of my pre-marketing strategy, I still list them on Zillow, Trulia, etc, just to test the market.
 
 {% include pullquote.html %}
 
