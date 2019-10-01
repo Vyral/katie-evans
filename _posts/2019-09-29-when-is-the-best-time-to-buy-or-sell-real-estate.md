@@ -31,7 +31,7 @@ Why do rates matter to a seller? **It affects your buyer pool and how many peopl
 
 {% include pullquote.html %}
 
-National and state real estate trends are the averages of million of transactions. When you boil it down to a few numbers, a lot of the details get lost. **It’s important to look at what's happening in your local market especially.**
+National and state real estate trends are the averages of millions of transactions. When you boil it down to a few numbers, a lot of the details get lost. **It’s important to look at what's happening in your local market especially.**
 
 This brings me to my last point. Your personal circumstances really matter. What is your family situation? What are your goals? Where are your kids at in their life?
 
