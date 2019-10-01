@@ -25,7 +25,7 @@ One of the most-asked questions I hear from buyers, sellers, and investors alike
 
 **I’d love to be able to pinpoint a date or week or month for you, but in reality, there isn’t one.** This is a question where the answer stays the same all the time.
 
-There are many variables that go into buying and selling, but one that a lot of people don’t consider is mortgage rates. If you’ve been watching them, you notice that they bounce around a lot. They tend to fluctuate more daily than people realize. Even though the changes can be small, they can represent a huge change to a buyer’s purchasing power.
+There are many variables that go into buying and selling, but one that a lot of people don’t consider is mortgage rates. If you’ve been watching them, you notice that they bounce around a lot. They tend to fluctuate daily more than people realize. Even though the changes can be small, they can represent a huge change to a buyer’s purchasing power.
 
 Why do rates matter to a seller? **It affects your buyer pool and how many people can qualify to purchase your home.** Some people might get priced out in a market with high rates. You don’t have any control over this variable, so it really makes it impossible to “time” the market.
 
@@ -37,6 +37,6 @@ This brings me to my last point. Your personal circumstances really matter. What
 
 **When we are asking these questions, it’s important to remember that your circumstances matter a lot.** We have to weigh them quite heavily. This isn’t just a one-time decision, it’s the beginning of a huge transition. We take a look at the uniqueness of each situation and the factors that they’re trying to accomplish and make goals based on that.&nbsp;
 
-In the end, it’s never a bad time or god time to sell unless it’s a bad time or good time for you. If you were looking for a precise answer, I’m sorry to disappoint you. However, I hope you better understand the process better after reading this.&nbsp;
+In the end, it's never a bad or good time to sell unless it's a bad or good time for you. If you were looking for a precise answer, I’m sorry to disappoint you. However, I hope you better understand the process after reading this.&nbsp;
 
 If you have any questions for me in the meantime about buying a home, selling a home, or real estate in general, don’t hesitate to give me a call or send me an email.
