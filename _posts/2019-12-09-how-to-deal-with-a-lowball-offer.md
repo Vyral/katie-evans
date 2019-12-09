@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How should home sellers respond to receiving lowball offers? Here’s my
   professional take.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Katie+Evans+/2019/December/How+to+Deal+with+a+Lowball+Offer.mp4
 pullquote: >-
   My job as an agent is to help you take the emotion out of the equation to help
   you make a calm, rational decision about what to do next.
