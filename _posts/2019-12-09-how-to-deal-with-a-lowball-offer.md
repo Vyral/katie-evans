@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Deal with a Lowball Offer
-date: 2019-12-09 18:06:08
+date: 2019-12-09 18:06:00
 tags:
   - Home Seller Tips
 excerpt: >-
