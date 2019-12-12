@@ -27,13 +27,15 @@ The game has changed a little bit, so buyers in our market will need to make sur
 
 Now, back to our home sellers. If you’re on the receiving end of a lowball offer, what should you do about it? Well, **you have three options for proceeding:**
 
-{% include pullquote.html %}&nbsp;
+&nbsp;
 
 **1\. Test the market.** Suppose your house is listed for $225,000 and you get an offer for $190,000. A lot of agents and their sellers would be absolutely offended by that, but the better option is to test the market. That means we may get a little aggressive with a price adjustment and move down to $205,000 to start a bidding war. This can sometimes get you an even higher price than you’d get otherwise. It’s just a matter of appealing to the right set of buyers, letting them see the value in your home, and allowing them to correct the price for you.
 
 **2\. Counter the offer.** If a buyer cared enough to make you an offer, let’s see where they really are. Certain buyers don’t feel good about making a purchase unless they’ve negotiated it first, so let’s negotiate back\! We can keep our counteroffer close to your list price, especially if we priced it according to the market. This will show them that we’re not unreasonable and that we’re willing to make some concessions. If they take the counteroffer, that’s great\!&nbsp;
 
 **3\. Politely decline the offer.** It’s important not to close any doors with anyone, so just politely decline the offer, thank them for being interested in your home, and tell them that they’re just a little too far off with their numbers. If they’re interested in coming closer to your preferred price, then we could, of course, reconsider their new offer.
+
+{% include pullquote.html %}&nbsp;
 
 In the end, it’s important not to make too many judgment calls about the intentions of lowball offers. Emotions are common to any real estate transaction, but my job as an agent is to help you take the emotion out of the equation to help you make a calm, rational decision about what to do next.
 
