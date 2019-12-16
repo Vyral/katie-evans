@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Respond to Lowball Offers
-date: 2019-12-16 20:26:21
+date: 2019-12-16 20:26:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: pLP5H58xrFk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>How should home sellers respond to receiving lowball offers? Here’s my professional take.</em></p>
+*How should home sellers respond to receiving lowball offers? Here’s my professional take.*
 
 Before I address my home sellers on how to respond to lowball offers, **I want to pose a question to the homebuyers reading this: “How badly do you want the house?”** Question yourself about why you’re presenting a seller with a lowball offer. For the last several years, we’ve had very low inventory here in Arizona, and because of that, we’ve been seeing record-high prices. It’s become very difficult for some buyers in certain price points in Arizona.&nbsp;
 
