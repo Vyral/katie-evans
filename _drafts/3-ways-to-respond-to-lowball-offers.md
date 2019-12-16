@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Respond to Lowball Offers
-date: 
+date:
 tags:
   - Home Seller Tips
 excerpt: >-
