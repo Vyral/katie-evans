@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 2020 Market Forecast
-date: 2020-01-28 21:06:33
+date: 2020-01-28 21:06:00
 tags:
   - Market Update
 excerpt: Here are the latest MLS numbers and what they mean for our East Valley market.
