@@ -16,7 +16,9 @@ youtube_alternate_image: >-
 youtube_code: stNVm3eAAxA
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Here are the latest MLS numbers and what they mean for our East Valley market.</em></p>
 
 Welcome to your first East Valley real estate market update of 2020\! We’re keeping a close on our Arizona market, and we have the latest numbers to share with you—pulled right from the MLS. We’ll also discuss what these numbers mean for buyers and sellers.
 
