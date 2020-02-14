@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Best Time to Speak to an Agent?
-date: 2020-02-11 21:34:49
+date: 2020-02-11 21:34:00
 tags:
   - Home Buyer Tips
 excerpt: I’m sharing when the ideal time is to get in touch with a real estate agent.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/katie-evans---the-best-time-to-speak-to-an-agent-youtube.jpg
+youtube_alternate_image: /uploads/katie-evans---the-best-time-to-speak-to-an-agent-2--youtube-1.jpg
 youtube_code: mted_lD9Wgk
 ---
 
