@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The Essentials of a Marketing Plan
-date: 2020-03-12 18:23:16
+date: 2020-03-12 18:23:00
 tags:
   - Home Seller Tips
 excerpt: >-
   There’s an art to marketing a home, even in a strong seller’s market. Here’s
   three things you must consider if you’re prepping yours for sale now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Katie+Evans+/2020/March/The+Essentials+of+a+Marketing+Plan.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
