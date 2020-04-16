@@ -19,7 +19,7 @@ youtube_code: B4V1IZ0rVK0
 
 {% include youtube.html %}
 
-Here’s how we’re putting your safety first, and employing a little more creativity in our real estate process.
+<p style="text-align: center;"><em>Here’s how we’re putting your safety first, and employing a little more creativity in our real estate process.</em></p>
 
 Buyers: Don’t be afraid to purchase a house sight unseen. Believe it or not, countless buyers have been doing this for a very long time. We’ve been leveraging technology to help our out-of-state buyers purchase homes based on virtual walk-throughs for years now, to great effect.
 
