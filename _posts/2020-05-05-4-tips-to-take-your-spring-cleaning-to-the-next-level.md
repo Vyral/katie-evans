@@ -19,7 +19,7 @@ youtube_code: 2O8dZllKcEE
 
 {% include youtube.html %}
 
-These four spring cleaning tips give your home some great TLC.
+<p style="text-align: center;"><em>These four spring cleaning tips give your home some great TLC.</em></p>
 
 Here are four spring cleaning tips that every homeowner can benefit from doing:&nbsp;
 
