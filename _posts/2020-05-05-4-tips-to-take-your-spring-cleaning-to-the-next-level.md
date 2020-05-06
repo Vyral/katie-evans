@@ -29,7 +29,7 @@ Here are four spring cleaning tips that every homeowner can benefit from doing:&
 
 {% include pullquote.html %}
 
-**3\. Wipe down your walls.** If your walls are a bit textured like mine, dust can easily collect on them. Grab a rag dampened with soapy water, and wipe them down. Magic erasers are great for tackling scuff marks on doors, but be aware that they’ve been known to cause chipping if used too roughly on painted surfaces. If you’re excited to dive into a little painting project during lock down, cleaning your walls is the perfect prep work\!
+**3\. Wipe down your walls.** If your walls are a bit textured like mine, dust can easily collect on them. Grab a rag dampened with soapy water, and wipe them down. Magic erasers are great for tackling scuff marks on doors, but be aware that they’ve been known to cause chipping if used too roughly on painted surfaces. If you’re excited to dive into a little painting project during lockdown, cleaning your walls is the perfect prep work\!
 
 **4\. Clean your blinds.** Can you remember the last time you did this? Take time to wipe down every individual blade and blind. Those collect dust like you wouldn’t believe, and in this high-pollen season, cleaning them will help clear the air in your home and make things easier for your respiratory system.&nbsp;
 
