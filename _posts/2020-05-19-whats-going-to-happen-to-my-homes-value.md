@@ -18,7 +18,7 @@ youtube_code: R4QvuE336Rg
 
 {% include youtube.html %}
 
-Will home values drop? Tried-and-true market principles say ‘no.’
+<p style="text-align: center;"><em>Will home values drop? Tried-and-true market principles say ‘no.’</em></p>
 
 To get a better understanding of what the future holds for home values in our market, we need to dip into a brief overview of economics and the applicable economic formula. Basically, a market is always categorized by the relationship between supply and demand that exists within it; **for the past several years, our market has had very, very low inventory, and very high demand, making it a seller’s market.** Prior to COVID-19, these conditions led to housing prices rising fairly quickly year after year.&nbsp;
 
